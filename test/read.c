@@ -1,5 +1,5 @@
 #include <string.h>
-#include <H5Part.h>
+#include "../src/H5Part.h"
 
 #include "testframe.h"
 #include "params.h"

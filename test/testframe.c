@@ -29,7 +29,7 @@
 #include <stdlib.h>
 #include <stdarg.h>
 #include <string.h>
-#include <H5Part.h>
+#include "../src/H5Part.h"
 #include "testframe.h"
 #include "../src/H5PartPrivate.h"
 
